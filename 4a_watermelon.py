@@ -18,3 +18,4 @@ elif val%2 == 0:
 else:
     print('NO')
 
+# didnt realize 2 was one that didnt follow this pattern
